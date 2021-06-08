@@ -23,11 +23,18 @@ After analysis was carried out, below are relevant questions and answers on the 
  
 - How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?
 
-  - Vine reviews with 5-stars
+  - Vine reviews with 5-stars & its percentages
   
   ![image](https://user-images.githubusercontent.com/78067427/121108847-76819800-c7d8-11eb-9658-ac021e169f99.png)
 
-  - Non-vine reviews with 5-stars
+  - Non-vine reviews with 5-stars & its percentages
 
   ![image](https://user-images.githubusercontent.com/78067427/121108918-95802a00-c7d8-11eb-9b6b-cb6563815915.png)
+  
+### Summary
+ 
+It is inconclusive to say the 5-stars ratings was helpful to indicate to potential customers an unbiased view of the vine program.
+ 
+From the results, 5-stars rating of paid vine is 34 of 60 reviews. This looks pretty great, however it is only 0.23% of the vine dataset which cannot represent a positive outlook of the product line. We need to understand that this 5-star ratings didn't result a positive view for potential customers, but having to ignore 3-4stars rating which can be very useful makes the analysis biased to accept the results were unfavourable.
 
+Further analysis should be carried out on 3-5stars rating which could show the product line has a positive overview. Also, the verified purchases should be used as a criteria, because most reviews can be influenced by one or group of persons trying to promote/downgrade the product line.
